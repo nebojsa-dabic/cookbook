@@ -12,3 +12,4 @@ After unpacking just instal the database from __cookbook.sql.zip__ and that's it
 * pass: 12345678
 
 Theme is activated with couple of Lorem Ipsum recipes already inserted.
+After complete instalation just change the master domain from __*https://cookbook.test/*__ to your enviropment domain
